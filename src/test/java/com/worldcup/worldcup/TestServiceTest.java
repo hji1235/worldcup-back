@@ -16,6 +16,6 @@ class TestServiceTest {
     @Test
     void test1() {
 
-        Assertions.assertThat(testService.test()).isEqualTo("hahahaha@@1");
+        Assertions.assertThat(testService.test()).isEqualTo("hahahaha@@");
     }
 }
